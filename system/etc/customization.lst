@@ -1,0 +1,11 @@
+# UEIP feature
+ENABLE_UEIP
+
+# Hide System doctor App2SD page
+DISABLE_APP2SD
+
+# Enable low memory notification mechanism
+ENABLE_LOW_MEMORY_NOTIFICATION
+
+# Enable spliScren feature
+ENABLE_SPLIT_SCREEN
